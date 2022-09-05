@@ -1,0 +1,25 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background: url(https://bdkhtravinh.vn/cach-lam-anh-bia-bang-photoshop-online/imager_25122.jpg);
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background: url(https://smartconvert.co/wp-content/uploads/2020/05/cong-cu-thiet-ke-banner-online.png);
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background: url(https://i.ytimg.com/vi/1_d8VodSp1I/maxresdefault.jpg);
+}
+
+.carousel-inner {
+  height: 50%;
+  background-color: red;
+}
+.carousel-item {
+  height: 500px;
+}
